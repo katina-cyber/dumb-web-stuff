@@ -9,6 +9,6 @@ Plan:
 - If the user successfully clicks on the button, take them to another page with music playing
 
 
-References:
+References:  
 [Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)  
 [Image Button](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_alt) 
