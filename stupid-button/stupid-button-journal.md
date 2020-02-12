@@ -13,5 +13,5 @@ References:
 [Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)  
 [Image Button](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_alt)  
 [Embed Button into img](https://stackoverflow.com/questions/8683528/embed-image-in-a-button-element)  
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Vim Cheatsheet](https://vim.rtorr.com/)
