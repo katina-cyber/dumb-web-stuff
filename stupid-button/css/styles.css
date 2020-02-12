@@ -1,3 +1,4 @@
-#yee-button {
-  background-image: url("../img/yee.png");
+#yee-button img {
+  height: 100px;
+  width: 100px;
 }
