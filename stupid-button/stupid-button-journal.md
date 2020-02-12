@@ -7,3 +7,6 @@ Plan:
 - Have the button be an image
 - Upon mousing over the button, have it change position and make a noise
 - If the user successfully clicks on the button, take them to another page with music playing
+
+Link to Basic HTML5 Template:
+https://www.sitepoint.com/a-basic-html5-template/
