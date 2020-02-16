@@ -1,4 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton|Roboto&display=swap');
+
+body, #back-button {
+    background-color: #21A469;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: white;
+   
+}
+
+div, #back-button {
+
+    text-align: center;
+   
+    max-height: 100vh;
+    max-width: 100vw;
+    overflow: auto;
+    
+  
+}
+
+
+h1 {
+    font-family: 'Monoton', cursive;    
+    font-weight: normal;
+    font-size: 5rem;
+}
+
+
 #yee-button img {
   height: 100px;
   width: 100px;
+}
+
+#yee-button {
+   display: block;
+    border: black;
+     margin-left: auto;
+    margin-right: auto;
+}
+
+#back-button {
+    background-color: #31DE7C;
+    border: none;
+    padding: 10px;
+ 
+}
+
+#back-button:active {
+    background-color: #FF47D8;
 }

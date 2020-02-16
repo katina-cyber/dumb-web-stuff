@@ -13,21 +13,9 @@
 </head>
 
 <body>
-
-<div id ="content">
   <h1>Yee Button</h1>
-  
-  <p>Click anywhere for sound</p>
-  
-  <div id="yee-button">
-    <button disabled><img src="yee.png"></button>
-  </div>
-    
-    <!-- <button id="back-button">Click me to yee him back</button> -->
-  </div>
-
-
-
+  <p>Hello</p>
+  <button id="yee-button" onclick="playSound('beep.wav')"><img src="yee.png"></button>
   <script src="js/scripts.js"></script>
 </body>
 </html>

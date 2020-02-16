@@ -1,0 +1,35 @@
+var yeeButton = document.getElementById("yee-button"); 
+var backButton = document.getElementById("back-button");
+var yeeAudio = new Audio("yee.wav");
+
+var originalLeftPosition = yeeButton.style.left;
+var originalTopPosition = yeeButton.style.top;
+
+backButton.addEventListener("click", reloadPage, true);
+yeeButton.addEventListener("mouseenter", playSoundAndMove);
+function reloadPage() {
+    console.log("reload press");
+    yeeButton.style.position = null;
+    yeeButton.style.left = originalLeftPosition;
+    yeeButton.style.top = originalTopPosition;
+}
+
+function playSoundAndMove() {
+  console.log("you called the playSound function!");
+  
+  
+  new Audio("yee.wav").play();
+ yeeButton.style.position = "absolute";
+  /*yeeButton.style.left = Math.floor(Math.random() * window.innerWidth + 100) + "px";
+  //add 100 to the new height to make sure the button changes position enough so the user can't click it
+  yeeButton.style.top = Math.floor(Math.random() * window.innerHeight - 100) + "px"; 
+  */
+  
+  return false;
+}
+
+
+
+
+
+
