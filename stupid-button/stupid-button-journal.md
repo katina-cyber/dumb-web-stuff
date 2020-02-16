@@ -36,7 +36,7 @@ After a certain point, I felt like I had finished the assignment. Now I'm just a
 For some reason my "yee him back" button is making the yee-button move. I'm not sure why this is. It executes the wrong function on onclick.  
 
 
-References:
+References:  
 [How to play audio file](https://stackoverflow.com/questions/47893690/how-to-play-an-audio-file-from-an-external-url-using-javascript)
 [Position a div with specific coordinates](https://stackoverflow.com/questions/6802956/how-to-position-a-div-in-a-specific-coordinates)  
 [Using math.random in javascript](https://medium.com/@josephcardillo/using-math-random-in-javascript-c49eff920b11)  
