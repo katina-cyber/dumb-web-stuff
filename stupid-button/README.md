@@ -10,13 +10,13 @@ Plan:
 
 
 References:  
-[Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)  
-[Image Button](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_alt)  
-[Embed Button into img](https://stackoverflow.com/questions/8683528/embed-image-in-a-button-element)  
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-[Vim Cheatsheet](https://vim.rtorr.com/)  
-[Go up one level filepath](https://stackoverflow.com/questions/4810927/how-to-go-up-a-level-in-the-src-path-of-a-url-in-html)  
-[Freesound - Resource for sounds](https://freesound.org/)  
+- [Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)  
+- [Image Button](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_alt)  
+- [Embed Button into img](https://stackoverflow.com/questions/8683528/embed-image-in-a-button-element)  
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+- [Vim Cheatsheet](https://vim.rtorr.com/)  
+- [Go up one level filepath](https://stackoverflow.com/questions/4810927/how-to-go-up-a-level-in-the-src-path-of-a-url-in-html)  
+- [Freesound - Resource for sounds](https://freesound.org/)  
 
 ## 2.13.2020
 Having a problem with my .wav file not playing when I press the button...  
@@ -37,14 +37,14 @@ For some reason my "yee him back" button is making the yee-button move. I'm not 
 
 
 References:  
-[How to play audio file](https://stackoverflow.com/questions/47893690/how-to-play-an-audio-file-from-an-external-url-using-javascript)
-[Position a div with specific coordinates](https://stackoverflow.com/questions/6802956/how-to-position-a-div-in-a-specific-coordinates)  
-[Using math.random in javascript](https://medium.com/@josephcardillo/using-math-random-in-javascript-c49eff920b11)  
-[Remove font weight from headline](https://stackoverflow.com/questions/8079070/how-to-remove-the-bold-from-a-headline)  
-[Pastel Color Tones and Hex](https://www.schemecolor.com/pastel-color-tones.php) 
-[How to center a website w3schools](https://www.w3schools.com/howto/howto_css_center_website.asp)     
-[Maximum user browser height and width](https://stackoverflow.com/questions/15327829/how-to-find-using-javascript-the-maximum-users-browser-window-width-and-current)  
-[CSS Button Styling](https://www.w3schools.com/css/css3_buttons.asp)  
+- [How to play audio file](https://stackoverflow.com/questions/47893690/how-to-play-an-audio-file-from-an-external-url-using-javascript)
+- [Position a div with specific coordinates](https://stackoverflow.com/questions/6802956/how-to-position-a-div-in-a-specific-coordinates) 
+- [Using math.random in javascript](https://medium.com/@josephcardillo/using-math-random-in-javascript-c49eff920b11)  
+- [Remove font weight from headline](https://stackoverflow.com/questions/8079070/how-to-remove-the-bold-from-a-headline)  
+- [Pastel Color Tones and Hex](https://www.schemecolor.com/pastel-color-tones.php) 
+- [How to center a website w3schools](https://www.w3schools.com/howto/howto_css_center_website.asp)     
+- [Maximum user browser height and width](https://stackoverflow.com/questions/15327829/how-to-find-using-javascript-the-maximum-users-browser-window-width-and-current)  
+- [CSS Button Styling](https://www.w3schools.com/css/css3_buttons.asp)  
 
 
 ## 2.16.2020
