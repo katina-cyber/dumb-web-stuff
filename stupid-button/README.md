@@ -43,7 +43,7 @@ References:
 [Remove font weight from headline](https://stackoverflow.com/questions/8079070/how-to-remove-the-bold-from-a-headline)  
 [Pastel Color Tones and Hex](https://www.schemecolor.com/pastel-color-tones.php) 
 [How to center a website w3schools](https://www.w3schools.com/howto/howto_css_center_website.asp)   
-[Maximum user browser height and width](https://stackoverflow.com/questions/15327829/how-to-find-using-javascript-the-maximum-users-browser-window-width-and-current)
+[Maximum user browser height and width](https://stackoverflow.com/questions/15327829/how-to-find-using-javascript-the-maximum-users-browser-window-width-and-current)  
 [CSS Button Styling](https://www.w3schools.com/css/css3_buttons.asp)  
 
 
