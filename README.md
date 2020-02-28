@@ -1,2 +1,3 @@
-# dumb-web-stuff
-Dumb web projects I make solely for the purpose of learning new technologies!
+## Dumb-Web-Stuff
+
+Silly projects I make for learning about web development. 
